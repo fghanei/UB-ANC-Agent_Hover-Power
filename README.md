@@ -1,8 +1,6 @@
 Copyright © Farshad Ghanei
 
-This repo has been based on a work done by Jalil Modares in the Department of Electrical Engineering at the University at Buffalo. 
-
-We have worked together on the project and I have worked on this project ever since.
+This repo is a joint work done by me and Jalil Modares at the University at Buffalo. 
 
 If you use this program for your work/research, please cite:
 [J. Modares, F. Ghanei, N. Mastronarde and K. Dantu, "UB-ANC Planner: Energy Efficient Coverage Path Planning with Multiple Drones"](https://doi.org/10.1109/ICRA.2017.7989732).
